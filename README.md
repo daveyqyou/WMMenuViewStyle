@@ -4,7 +4,7 @@
 #### 项目需求如下图：
 * 修改选项卡为自定义图片
 * 加粗选中的字体
-* ![WMPageControlle](media/15717123341274/WMPageController.gif)
+* ![WMPageController.gif](https://upload-images.jianshu.io/upload_images/3115781-078d15d4bd3bb0e2.gif?imageMogr2/auto-orient/strip)
 
 ##### 查看WMPageController源代码，**验证**其最后都在```WMProgressView.m```中的```- (void)drawRect:(CGRect)rect```进行重绘。
 ##### 故仿照其重绘过程，增加自定义绘制在```WMProgressView.h```中
